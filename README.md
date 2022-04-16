@@ -1,2 +1,4 @@
-# Tic-tac-toe
-tic-tac-toe game using React
+# Tic Tac Toe
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/ektadhobley/pen/PoExegb](https://codepen.io/ektadhobley/pen/PoExegb).
+
